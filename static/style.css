@@ -27,6 +27,7 @@ table.sample td {
 	-moz-border-radius: 0px 0px 0px 0px;
 }
 body {
+	background-image:url(../back.jpg);
     background-color: #DDDDDD; 
     padding-top: 20px;
     padding-right: 20px;
@@ -75,7 +76,6 @@ A:hover {
     display: inline;
     margin-right: 20px;
     font-size: 1.5em;
-    text-transform: lowercase;
 }
 
 #menu .name {
